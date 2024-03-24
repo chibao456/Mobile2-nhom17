@@ -15,7 +15,7 @@ import retrofit2.Retrofit;
 import retrofit2.converter.gson.GsonConverterFactory;
 
 public class ServiceApiBuilder {
-    private static final String URL_TMDB = "tmdb api";
+    private static final String URL_TMDB = "https://api.themoviedb.org/3/";
     private static final String URL_USER_API = "https://192.168.1.5:85/userapi/";
 
     // Create logger

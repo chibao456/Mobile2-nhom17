@@ -1,4 +1,5 @@
 package com.example.appxemphim.ui.activity;
 
-public class LoginScreen {
+public class MovieDetailActivity {
+
 }

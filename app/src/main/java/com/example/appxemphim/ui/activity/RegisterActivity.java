@@ -1,5 +1,4 @@
 package com.example.appxemphim.ui.activity;
 
-public class MovieDetail {
-
+public class RegisterActivity {
 }

@@ -49,4 +49,5 @@ dependencies {
     implementation(libs.retrofit)
     implementation(libs.retrofit2.converter.gson)
     implementation(libs.logging.interceptor)
+    implementation("com.pierfrancescosoffritti.androidyoutubeplayer:core:12.1.0")
 }
