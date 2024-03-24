@@ -42,8 +42,11 @@ dependencies {
     androidTestImplementation(libs.espresso.core)
     implementation("de.hdodenhof:circleimageview:3.1.0")
     implementation("androidx.appcompat:appcompat:1.6.1")
-    implementation("com.google.android.material:material:1.9.0")
+    implementation("com.google.android.material:material:1.11.0")
     implementation("androidx.constraintlayout:constraintlayout:2.1.4")
     implementation("com.github.ybq:Android-SpinKit:1.4.0")
     implementation("com.github.bumptech.glide:glide:4.16.0")
+    implementation(libs.retrofit)
+    implementation(libs.retrofit2.converter.gson)
+    implementation(libs.logging.interceptor)
 }
