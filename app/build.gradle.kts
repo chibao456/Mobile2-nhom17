@@ -46,4 +46,6 @@ dependencies {
     implementation("androidx.constraintlayout:constraintlayout:2.1.4")
     implementation("com.github.ybq:Android-SpinKit:1.4.0")
     implementation("com.github.bumptech.glide:glide:4.16.0")
+
+    implementation("com.google.android.exoplayer:exoplayer:2.19.1")
 }

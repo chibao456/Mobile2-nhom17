@@ -22,4 +22,11 @@
     <string name="nav_profile">My Profile</string>
     <string name="nav_chancePass">Change Password</string>
     <string name="nav_logout">Logout</string>
+
+<!--    các chức năng trong setting-->
+    <string name="label_1">Dark Mode</string>
+    <string name="label_2">Use only Wifi</string>
+    <string name="label_3">Noitification</string>
+
+
 </resources>
